@@ -1,9 +1,9 @@
-**Final Assignment (50%)**/
-Member1: Dharvin Shah Kumar bin Mohamad Shah Ravin/
-Member1_ID: 1211102532/
-Member2: Tan Fu Shun/
-Member1_ID: 1211101407/
-Section: TT5L/
+**Final Assignment (50%)**  
+Member1: Dharvin Shah Kumar bin Mohamad Shah Ravin  
+Member1_ID: 1211102532  
+Member2: Tan Fu Shun  
+Member1_ID: 1211101407  
+Section: TT5L  
 
 **Future Work**
 
