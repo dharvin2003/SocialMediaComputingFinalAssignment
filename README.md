@@ -12,9 +12,6 @@ deploying the model as a web app could significantly enhance its usability. Inte
 system into a web-based dashboard using tools such as Streamlit or Dash would allow for 
 real-time input and interactive visualizations, offering a more engaging and user-friendly 
 experience. Finally, incorporating real-time sentiment tracking is another avenue to 
-25 
-Customer Perceptions on Qatar Airways: A Sentiment Analysis Approach   
-CDS6344 – Social Media Computing   
 consider. By integrating live review feeds from platforms like Twitter or TripAdvisor, the 
 system could transform into a real-time monitoring tool that provides instant insights into 
 customer feedback and enabling businesses to respond more proactively to customer 
